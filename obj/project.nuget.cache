@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mi+MLBef3Fs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GADGET STORE\\source\\repos\\MyTaskManager\\MyTaskManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GADGET STORE\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}

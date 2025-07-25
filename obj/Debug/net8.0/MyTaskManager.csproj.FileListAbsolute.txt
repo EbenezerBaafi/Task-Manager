@@ -1,0 +1,15 @@
+C:\Users\GADGET STORE\source\repos\MyTaskManager\bin\Debug\net8.0\MyTaskManager.exe
+C:\Users\GADGET STORE\source\repos\MyTaskManager\bin\Debug\net8.0\MyTaskManager.deps.json
+C:\Users\GADGET STORE\source\repos\MyTaskManager\bin\Debug\net8.0\MyTaskManager.runtimeconfig.json
+C:\Users\GADGET STORE\source\repos\MyTaskManager\bin\Debug\net8.0\MyTaskManager.dll
+C:\Users\GADGET STORE\source\repos\MyTaskManager\bin\Debug\net8.0\MyTaskManager.pdb
+C:\Users\GADGET STORE\source\repos\MyTaskManager\obj\Debug\net8.0\MyTaskManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GADGET STORE\source\repos\MyTaskManager\obj\Debug\net8.0\MyTaskManager.AssemblyInfoInputs.cache
+C:\Users\GADGET STORE\source\repos\MyTaskManager\obj\Debug\net8.0\MyTaskManager.AssemblyInfo.cs
+C:\Users\GADGET STORE\source\repos\MyTaskManager\obj\Debug\net8.0\MyTaskManager.csproj.CoreCompileInputs.cache
+C:\Users\GADGET STORE\source\repos\MyTaskManager\obj\Debug\net8.0\MyTaskManager.dll
+C:\Users\GADGET STORE\source\repos\MyTaskManager\obj\Debug\net8.0\refint\MyTaskManager.dll
+C:\Users\GADGET STORE\source\repos\MyTaskManager\obj\Debug\net8.0\MyTaskManager.pdb
+C:\Users\GADGET STORE\source\repos\MyTaskManager\obj\Debug\net8.0\MyTaskManager.genruntimeconfig.cache
+C:\Users\GADGET STORE\source\repos\MyTaskManager\obj\Debug\net8.0\ref\MyTaskManager.dll
+C:\Users\GADGET STORE\source\repos\MyTaskManager\obj\Debug\net8.0\MyTaskManager.sourcelink.json
